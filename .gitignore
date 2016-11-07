@@ -63,3 +63,4 @@ packages/**/src/**/*.js
 packages/**/src/**/*.js.map
 tsc.js
 typescriptServices.js
+build
